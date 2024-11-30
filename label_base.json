@@ -1,0 +1,10 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "corner_radius": "10",
+            "side_length": "100",
+            "thickness": "100"
+        }
+    }
+}
